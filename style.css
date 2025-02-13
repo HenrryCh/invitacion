@@ -67,3 +67,6 @@ body {
 .btn a:hover {
     background-color: #4B387E;
 }
+.tenor-gif-embed a {
+    display: none !important;
+}
