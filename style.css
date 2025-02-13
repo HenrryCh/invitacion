@@ -68,8 +68,6 @@ body {
     background-color: #4B387E;
 }
 
-.tenor-gif-embed a {
-    display: none !important;
-    visibility: hidden;
-    height: 0;
+.tenor-gif-embed {
+    font-size: 0 !important;
 }
